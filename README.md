@@ -1,3 +1,5 @@
+![Alt Text](https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/36_Welcome%20Email%20Templates.jpg?width=893&height=600&name=36_Welcome%20Email%20Templates.jpg)
+
 ### Welcome! 👋
 
 "Pessimism leads to weakness, optimism to power." - William James
