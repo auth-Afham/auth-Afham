@@ -33,8 +33,8 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="SQL Server" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/azure" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/250px-Microsoft_SQL_server_logo.png" alt="SQL Server" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/azure" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="AWS" height="40"/> </a>
   <a href="https://www.google.com/cloud/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png" alt="Google Cloud" height="40"/> </a>
 </p>
