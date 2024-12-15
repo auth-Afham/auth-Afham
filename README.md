@@ -33,9 +33,9 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SQL_Server_Logo_2019.svg/500px-SQL_Server_Logo_2019.svg.png" alt="SQL Server" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/SQL_Server_Logo_2019.svg" alt="SQL Server" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/azure" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a>
   <a href="https://www.google.com/cloud/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Google_Cloud_logo_2020.svg" alt="Google Cloud" width="40" height="40"/> </a>
 </p>
 
