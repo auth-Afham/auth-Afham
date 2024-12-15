@@ -56,8 +56,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://via.placeholder.com/500x300?text=GitHub+Stats" alt="GitHub Stats Placeholder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=auth-Afham&show_icons=true&locale=en" alt="auth-Afham Stats" />
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/500x300?text=GitHub+Streak+Placeholder" alt="GitHub Streak Placeholder" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auth-Afham&theme=default" alt="auth-Afham Streak" />
 </p>
