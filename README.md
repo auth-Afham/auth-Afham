@@ -1,9 +1,9 @@
-[![Header](https://github.com/auth-Afham/auth-Afham/blob/main/s-l960.jpg)](https://ai-afham.netlify.app/)
+[![Header](https://github.com/auth-Afham/auth-Afham/blob/main/1727404074887.jpg)](https://ai-afham.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Afham Irfan</h1>
 <h3 align="center">☁️ Aspiring Cloud DevOps Engineer | 📱 Learning Flutter for Passive Income</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.mp4" />
+<img align="right" alt="Coding" width="400" src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=auth-Afham&label=Profile%20views&color=0e75b6&style=flat" alt="auth-Afham" />
