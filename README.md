@@ -20,7 +20,10 @@
 - 🌱 I’m currently learning **DevOps Tools (Kubernetes, Docker)**  
 - 👯 I’m looking to collaborate on **Cloud, Automation, or Flutter-based projects**  
 - 💬 Ask me about **Python, Cloud Computing, or DevOps**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/afham-irfan-a43a20240)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/afham-irfan-a43a20240)**
+- 👀 I’m interested in **Cloud computing, DevOps, automation, and cybersecurity. I love exploring new technologies and trends that help optimize systems and workflows, as well as engaging in projects that combine my interests in development and cloud infrastructure.**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I once spent an entire day experimenting with various AI models and successfully built a simple chatbot that can answer questions about my favorite tech projects. It was both challenging and rewarding, and a reminder that tech can be both fun and functional! 🤖💬**
 
 ---
 
