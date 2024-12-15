@@ -1,9 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/3f/b3/5e/3fb35e40e71805be97b5ab7c7265cac1.jpg)](https://ai-afham.netlify.app/)
+[![Header](https://via.placeholder.com/1200x400?text=Welcome+to+Afham's+GitHub+Profile)](https://ai-afham.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Afham Irfan</h1>
 <h3 align="center">☁️ Aspiring Cloud DevOps Engineer | 📱 Learning Flutter for Passive Income</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/36/73/b2/3673b220d40793ab3bdb0114aca65803.gif" />
+<img align="right" alt="Coding" width="400" src="https://via.placeholder.com/400x300?text=Placeholder+GIF" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=auth-Afham&label=Profile%20views&color=0e75b6&style=flat" alt="auth-Afham" />
@@ -56,8 +56,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auth-Afham&show_icons=true&theme=radical" alt="auth-Afham stats" />
+  <img src="https://via.placeholder.com/500x300?text=GitHub+Stats" alt="GitHub Stats Placeholder" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auth-Afham&theme=radical" alt="auth-Afham streak" />
+  <img src="https://via.placeholder.com/500x300?text=GitHub+Streak+Placeholder" alt="GitHub Streak Placeholder" />
 </p>
