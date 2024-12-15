@@ -4,7 +4,7 @@
 
 ## ☁️ Aspiring Cloud DevOps Engineer
 
-<img align="right" alt="Coding" width="400" src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.gif" />
+<img align="right" alt="Coding" width="300" src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.gif" />
 
 ### About Me
 
