@@ -1,12 +1,21 @@
-<p align="center">
-  <a href="https://ai-afham.netlify.app/">
-    <img src="https://github.com/auth-Afham/auth-Afham/blob/main/giphy.gif" alt="Header Image" style="object-fit: cover; width: 100%; height: 200px; display: block; margin: auto;" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Coding" width="250" src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.gif" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <!-- Header GIF on the left -->
+    <td align="center" width="50%">
+      <a href="https://ai-afham.netlify.app/">
+        <img src="https://github.com/auth-Afham/auth-Afham/blob/main/giphy.gif" 
+             alt="Header Image" 
+             style="object-fit: cover; width: 100%; height: 200px;" />
+      </a>
+    </td>
+    <!-- Donut GIF on the right -->
+    <td align="center" width="50%">
+      <img src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.gif" 
+           alt="Coding Donut" 
+           style="width: 250px; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 ## ☁️ Aspiring Cloud DevOps Engineer
 
