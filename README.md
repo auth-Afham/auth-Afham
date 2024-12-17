@@ -83,7 +83,7 @@ I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Exe
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=auth-Afham&show_icons=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=auth-Afham" alt="GitHub Streak" href="https://git.io/streak-stats" />
+  <a src="https://github-readme-streak-stats.herokuapp.com?user=auth-Afham" alt="GitHub Streak" href="https://git.io/streak-stats" />
 </div>
 
 ---
