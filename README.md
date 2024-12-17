@@ -1,4 +1,8 @@
-[![Header](https://github.com/auth-Afham/auth-Afham/blob/main/giphy.gif)](https://ai-afham.netlify.app/)
+<p align="center">
+  <a href="https://ai-afham.netlify.app/">
+    <img src="https://github.com/auth-Afham/auth-Afham/blob/main/giphy.gif" alt="Header Image" style="object-fit: cover; width: 100%; height: 200px; display: block; margin: auto;" />
+  </a>
+</p>
 
 ## ☁️ Aspiring Cloud DevOps Engineer  
 
