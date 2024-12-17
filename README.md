@@ -1,4 +1,4 @@
-![Header](https://github.com/auth-Afham/auth-Afham/blob/main/giphy.gif)(https://ai-afham.netlify.app/)
+[![Header](https://github.com/auth-Afham/auth-Afham/blob/main/giphy.gif)](https://ai-afham.netlify.app/)
 
 ## ☁️ Aspiring Cloud DevOps Engineer  
 
