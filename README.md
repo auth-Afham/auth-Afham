@@ -4,11 +4,11 @@
   </a>
 </p>
 
-## ☁️ Aspiring Cloud DevOps Engineer  
-
 <p align="center">
   <img alt="Coding" width="250" src="https://github.com/auth-Afham/auth-Afham/blob/main/Blender%20Tutorial%20Donut.gif" />
 </p>
+
+## ☁️ Aspiring Cloud DevOps Engineer
 
 ### About Me  
 
