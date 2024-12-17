@@ -63,8 +63,7 @@ I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Exe
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auth-Afham&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=auth-Afham)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=auth-Afham)](https://git.io/streak-stats)
 ---
 
 ## 🔍 Personal Details  
