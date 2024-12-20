@@ -36,6 +36,7 @@ I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Exe
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/afham.irfan)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://kaggle.com/afhamirfan)
 [![Credly](https://img.shields.io/badge/-Credly-FF6C02?logo=credly&logoColor=white&style=for-the-badge)](https://www.credly.com/users/afham-irfan/badges)
+[![Developer Profile](https://img.shields.io/badge/-Google%20Developer%20Profile-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://developers.google.com/profile/u/100630847786305907889)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=auth-Afham&label=Profile%20views&color=0e75b6&style=flat)
 
