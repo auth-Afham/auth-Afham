@@ -17,16 +17,16 @@
   </tr>
 </table>
 
-## ☁️ Aspiring Cloud DevOps Engineer
+## ☁️ Aspiring SRE (Site Reliability Engineer) and Erlang Developer
 
 ### About Me  
 
-I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Executive**, with a passion for **cloud computing**, **DevOps**, **automation**, and **cybersecurity**.
+I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Executive**, with a passion for **cloud computing**, **SRE**, **automation**, and **Erlang development**.
 
 ### 🚀 Current Focus  
-- 🌱 Learning **DevOps Tools** (Kubernetes, Docker)  
-- 👯 Looking to collaborate on **Cloud**, **Automation**, or **Flutter-based projects**  
-- 💬 Ask me about **Python**, **Cloud Computing**, or **DevOps**
+- 🌱 Learning **Erlang** and **SRE tools** (Kubernetes, Docker)  
+- 👯 Looking to collaborate on **Cloud**, **Erlang-based projects**, or **distributed systems**  
+- 💬 Ask me about **Erlang**, **SRE practices**, or **cloud computing**
 
 ---
 
@@ -101,4 +101,4 @@ I once spent an entire day experimenting with various AI models and successfully
 
 ## 📬 Let's Connect!  
 
-Feel free to reach out for collaboration or just to chat about **tech, cloud computing, or DevOps**! 🚀  
+Feel free to reach out for collaboration or just to chat about **Erlang**, **SRE practices**, or **cloud computing**! 🚀  
