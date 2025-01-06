@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-## ☁️ Aspiring SRE (Site Reliability Engineer) and Erlang Developer
+## ☁️ Aspiring Site Reliability Engineer (SRE)
 
 ### About Me  
 
