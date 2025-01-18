@@ -80,10 +80,10 @@ I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Exe
 
 ## 📊 GitHub Stats  
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auth-afham&theme=default)
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auth-afham&theme=default)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auth-Afham&show_icons=true)<br>
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=auth-Afham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=auth-afham)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=auth-Afham)](https://git.io/streak-stats)
 
 ---
 
