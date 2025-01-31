@@ -38,6 +38,7 @@ I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Exe
 [![Credly](https://img.shields.io/badge/-Credly-FF6C02?logo=credly&logoColor=white&style=for-the-badge)](https://www.credly.com/users/afham-irfan/badges)
 [![Developer Profile](https://img.shields.io/badge/-Google%20Developer%20Profile-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://developers.google.com/profile/u/100630847786305907889)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/auth-Afham)
+[![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-258ffa?logo=microsoft&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/users/afhamirfan-7929/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=auth-Afham&label=Profile%20views&color=0e75b6&style=flat)
 
