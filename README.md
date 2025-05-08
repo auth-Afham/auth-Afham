@@ -21,7 +21,7 @@
 
 ### About Me  
 
-I'm currently working at Crowd Sense Sdn. Bhd. as an **IT Support & Services Executive**, with a passion for **cloud computing**, **SRE**, **automation**, and **Erlang development**.
+I'm currently working at Crowd Sense Sdn. Bhd. as an **Software Developer**, with a passion for **cloud computing**, **SRE**, **automation**, and **Erlang development**.
 
 ### 🚀 Current Focus  
 - 🌱 Learning **Erlang** and **SRE tools** (Kubernetes, Docker)  
